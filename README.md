@@ -1,8 +1,8 @@
-# Tic Tac Two The Game
+# Tic Tac Two
 
 **Work in Progress**
 
-Tic Tac Two The Game is an innovative twist on the classic Tic Tac Toe game, implemented in Python. In this version, players are allowed to keep only their last three moves on the board, making the game longer and more strategic. The game supports both two-player mode and play against a bot with a basic strategy. Future enhancements include a graphical user interface and user account creation with game history tracking.
+Tic Tac Two is an innovative twist on the classic Tic Tac Toe game, implemented in Python. In this version, players are allowed to keep only their last three moves on the board, making the game longer and more strategic. The game supports both two-player mode and play against a bot with a basic strategy. Future enhancements include a graphical user interface and user account creation with game history tracking.
 
 ## Features
 
