@@ -1,5 +1,5 @@
 import random
- 
+
 def initialize_grid():
     """Initialize the grid dictionary with empty spaces."""
     return {pos: " " for pos in ['a1', 'a2', 'a3',
